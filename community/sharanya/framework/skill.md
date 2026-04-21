@@ -1,8 +1,8 @@
-
-| name | study-enhance |
-| description | Transform textbook content into an interactive, experiential learning journey. Use this skill whenever a student wants to engage with a textbook PDF, study a topic deeply, or learn through hands-on activities. Triggers on: "help me study", "make this interactive", "I want to learn X", "explain this chapter", "teach me", or any uploaded textbook/academic PDF.
-license: Complete terms in LICENSE.txt |
-
+---
+name: study-enhance
+description: Transform textbook content into an interactive, experiential learning journey. Use this skill whenever a student wants to engage with a textbook PDF, study a topic deeply, or learn through hands-on activities. Triggers on: "help me study", "make this interactive", "I want to learn X", "explain this chapter", "teach me", or any uploaded textbook/academic PDF.
+license: Complete terms in LICENSE.txt
+---
 
 ## When to use this skill
 Use this skill whenever a student wants to:
