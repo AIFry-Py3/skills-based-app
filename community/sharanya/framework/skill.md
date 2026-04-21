@@ -1,7 +1,6 @@
-
 ---
 name: study-enhance
-description: Enable an interactive learning experience built on textbook content. Creates virtual codelabs, YouTube video and article/paper redirections for user knowledge expansion, image generations for topic-related memes, graphical visualizations and animations to enhance the user's understanding of concepts, project-making labs for hands-on learning, a thinking based approach that encourages user to use their brain and personalization according to learning style. Use when any users want to enagage and interact with a pdf of a textbook and learn efficiently. 
+description: Enable an interactive learning experience built on textbook content. Creates virtual codelabs, YouTube video and article/paper redirections for user knowledge expansion, image generations for topic-related memes, graphical visualizations and animations to enhance the user's understanding of concepts, project-making labs for hands-on learning, a thinking based approach that encourages user to use their brain and personalization according to learning style. Use when any users want to enagage and interact with a pdf of a textbook and learn efficiently.
 ---
 
 # Study Enhancer
